@@ -1,0 +1,3 @@
+qutap :
+  excelPath :  /Users/vamsi.c/Desktop
+  excecutionPath: http://localhost:8080/qutapServer/engine/testcase/execute
